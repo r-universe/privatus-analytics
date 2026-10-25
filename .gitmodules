@@ -5,4 +5,4 @@
 [submodule "privatusanalytics"]
 	path = privatusanalytics
 	url = https://github.com/Privatus-Analytics/r
-	branch = *release
+	branch = v1.0.0
